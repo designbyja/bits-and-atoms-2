@@ -84,7 +84,7 @@
 .ellipse-parent {
   position: relative;
   border-radius: 20px;
-  background-color: rgba(206, 207, 209, 0.89);
+  background-color: rgba(255, 255, 255);
   box-shadow: -8px -8px 16px rgba(190, 180, 250, 0.81),
     8px 8px 16px rgba(190, 180, 250, 0.81);
   width: 300px;
